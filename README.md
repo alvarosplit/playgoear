@@ -1,7 +1,7 @@
-# A Perl Player for GoEar
-# (C) Alvaro Marin, <split@splitcc.net>, 24 Jun 2007
-# Redistributable under the terms of the GPL - see
-# <http://www.gnu.org/copyleft/gpl.html>
+A Perl Player for GoEar
+(C) Alvaro Marin, <split@splitcc.net>, 24 Jun 2007
+Redistributable under the terms of the GPL - see
+<http://www.gnu.org/copyleft/gpl.html>
 
 playgoear is a command line interface to access
 to mp3 streams of goear.com without the flash player
